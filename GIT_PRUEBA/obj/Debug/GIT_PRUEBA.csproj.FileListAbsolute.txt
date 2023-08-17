@@ -1,0 +1,8 @@
+D:\Cursos Programación\GIT\GIT_PRUEBA\bin\Debug\GIT_PRUEBA.exe.config
+D:\Cursos Programación\GIT\GIT_PRUEBA\bin\Debug\GIT_PRUEBA.exe
+D:\Cursos Programación\GIT\GIT_PRUEBA\bin\Debug\GIT_PRUEBA.pdb
+D:\Cursos Programación\GIT\GIT_PRUEBA\obj\Debug\GIT_PRUEBA.csproj.AssemblyReference.cache
+D:\Cursos Programación\GIT\GIT_PRUEBA\obj\Debug\GIT_PRUEBA.csproj.SuggestedBindingRedirects.cache
+D:\Cursos Programación\GIT\GIT_PRUEBA\obj\Debug\GIT_PRUEBA.csproj.CoreCompileInputs.cache
+D:\Cursos Programación\GIT\GIT_PRUEBA\obj\Debug\GIT_PRUEBA.exe
+D:\Cursos Programación\GIT\GIT_PRUEBA\obj\Debug\GIT_PRUEBA.pdb
